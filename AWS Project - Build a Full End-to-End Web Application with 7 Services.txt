@@ -1,0 +1,34 @@
+====== AWS PRACTICAS=====
+User name / iam user /Mexico-alex1993
+Custom password >Whisbi@2020
+
+====Retrieve password=======
+https://981660181220.signin.aws.amazon.com/console
+
+Mexico-alex1993  >>> https://981660181220.signin.aws.amazon.com/console
+
+Whisbi@2020
+
+>>>> user >>wildryves-site2 
+https://git-codecommit.us-east-1.amazonaws.com/v1/repos/wildryves-site2
+
+>>>>>>>GENERATE CREDENTIALS<<<<<<
+Mexico-alex1993-at-981660181220
+
+PASSWORD>>>>TSkdKHQh6jPGNj3ldREijGelTkAwMjRPSfkG5goo9WA=
+
+>>>>>> clone URL<<<<<
+https://git-codecommit.us-east-1.amazonaws.com/v1/repos/wildryves-site2
+
+>>>>>>AWS CLOUDESHELL<<<<<
+[cloudshell-user@ip-10-138-186-238 ~]$ git clone https://git-codecommit.us-east-1.amazonaws.com/v1/repos/wildryves-site2
+Cloning into 'wildryves-site2'...
+Username for 'https://git-codecommit.us-east-1.amazonaws.com': Mexico-alex1993-at-981660181220
+Password for 'https://wildryves-site2@git-codecommit.us-east-1.amazonaws.com': 
+
+
+=========================================================
+User Name,Password
+Mexico-alex1993+1-at-981660181220,4+kKW+AI/6Ro/Mc2u29b3zdaqLxQAXifz1UcBSdqPDE=
+
+aws s3 cp s3://wildryves-us-west-2/webApplication/1_StaticWebHosting/website
